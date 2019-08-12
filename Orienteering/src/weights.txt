@@ -1,0 +1,10 @@
+1.0 # OpenLand
+4.0 # Rough meadow
+3.0 # Easy movement forest
+5.0 # Slow run forest
+10.0 # Walk forest
+40.0 # Impassible vegetation
+5.0 # lake
+1.0 # paved road
+1.0 # Foot path
+1000.0 # Out of Bound
